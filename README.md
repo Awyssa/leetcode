@@ -1,2 +1,2 @@
-Neetcode 150 progress
-https://neetcode.io/
+Leetcode progress
+Mainly following Neetcode 150 - https://neetcode.io/
