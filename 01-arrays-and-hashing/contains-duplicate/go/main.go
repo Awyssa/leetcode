@@ -1,5 +1,8 @@
 package main
 
+func main() {
+}
+
 func containsDuplicate(nums []int) bool {
 	seen := make(map[int]struct{})
 	for _, num := range nums {
