@@ -12,3 +12,5 @@ const topKFrequent = (nums, k) => {
 	const removeDupe = new Set(kArray.flat());
 	return [...removeDupe];
 };
+
+module.exports = topKFrequent;
